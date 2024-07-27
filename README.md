@@ -77,7 +77,7 @@ The ESP32 microcontroller serves as the core operating unit of the ChordWave ins
 The ChordWave instrument has a button matrix attached to one of the GPIO extenders to ease user input. 12 note and 4 scale pads are grouped in a 4x4 structure in this button matrix. The button matrix can be easily connected to the ESP32 through the GPIO extender, which increases the number of available pins and is connected via the I2C protocol.
 
 The instrument includes an RGB matrix in addition to the button matrix to give the user visual feedback. 16 individually controllable RGB LEDs are grouped in a 4x4 format in this RGB matrix, which is connected to the second GPIO extension. The ESP32 can individually operate each LED due to the GPIO extension, providing dynamic and programmable visual feedback.
-The ESP32 and LCD display of the ChordWave instrument are linked via the I2C interface. The user can see information such as chord names, settings, and other relevant data on this display in real time. At address 0x3c, the ESP32 communicates with the LCD screen.
+The ESP32 and LCD display of the ChordWave instrument are linked via the I2C interface. The user can see information such as chord names, settings, and other relevant data on this display in real-time. At address 0x3c, the ESP32 communicates with the LCD screen.
 
 The I2C protocol is also used to provide interaction between the ESP32 and the GPIO extenders. The microcontroller and the extenders can transport data reliably and effectively due to this protocol. Addresses 0x3e and 0x3f are given to the GPIO extenders, respectively.
 
@@ -107,5 +107,6 @@ The instrument uses the MIDI over BLE (Bluetooth Low Energy) protocol for wirele
   
 ## Attachements
 
-You can watch the videos and check the photos of the instrument here
+You can watch the videos and check the photos of the instrument here:
+https://drive.google.com/drive/folders/1MAelnlFfMiEblEkdXl5V7w6tmdTGsJOj?usp=drive_link
 
