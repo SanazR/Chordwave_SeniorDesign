@@ -47,7 +47,7 @@ The wireless communication method used by the ChordWave instrument is MIDI over 
 Using the I2C (Inter-Integrated Circuit) Standard, the ChordWave instrument communicates internally amongst its parts. This standard makes it easier for a microcontroller, LCD, and other peripherals to exchange data for reliable and effective communication.
 
 
-<img src="https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/standards.png?raw=true" width= "550" height= "200" />
+<img src="https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/standards.png?raw=true" width= "550" height= "150" />
 
 
 ## Architecture Overview
