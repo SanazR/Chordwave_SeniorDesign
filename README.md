@@ -108,4 +108,5 @@ The instrument uses the MIDI over BLE (Bluetooth Low Energy) protocol for wirele
 ## Attachements
 
 You can watch the videos and check the photos of ChordWave instrument at the link below:
+
 https://drive.google.com/drive/folders/1pqknxs-jNYi_EqxAYwcyNCXa8cwT2Tqs?usp=sharing
