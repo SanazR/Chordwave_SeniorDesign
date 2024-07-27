@@ -31,13 +31,13 @@ The main goal of the project is to develop a digital musical instrument with lim
 
 The ChordWave instrument's construction blends commercially available electrical parts with specially developed software to produce a distinctive musical experience. 
 
-- ### MIDI Standards:
+- #### MIDI Standards:
 MIDI (Musical Instrument Digital Interface) is a standard for exchanging musical data among digital musical instruments, computers, and associated devices. To facilitate connection with other MIDI devices, including keyboards, sequencers, and computers, the ChordWave instrument embraces MIDI standards.
 
-- ### BLE Communication Standards:
+- #### BLE Communication Standards:
 The wireless communication method used by the ChordWave instrument is MIDI over BLE (Bluetooth Low Energy). This standard enables the instrument to seamlessly and reliably transmit MIDI data to compatible devices, like computers, mobile phones, and tablets running music apps.
 
-- ### I2C Internal Communication Standards:
+- #### I2C Internal Communication Standards:
 Using the I2C (Inter-Integrated Circuit) Standard, the ChordWave instrument communicates internally amongst its parts. This standard makes it easier for a microcontroller, LCD, and other peripherals to exchange data for reliable and effective communication.
 
 
