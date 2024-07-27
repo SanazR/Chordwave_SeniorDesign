@@ -6,7 +6,7 @@
 C﻿hordWave is an electronic musical instrument that produces sound using MIDI signals. The device is intended to be accessible and simple to use for individuals of any age and musical background.
 
 
-![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/CW.png?raw=true)
+![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/CW.png?raw=true | width=100)
 
 
 ## Background
@@ -14,7 +14,7 @@ C﻿hordWave is an electronic musical instrument that produces sound using MIDI 
 The ChordWave project intends to meet the rising need for contemporary and electronic musical instruments that offer a unique and unrestricted playing experience. Aspiring musicians may find it difficult to learn how to play traditional instruments since they can take many years of practice to perfect. A broader variety of tunes and capabilities are also required in instruments, enabling players to experiment with new musical styles and genres.  The ChordWave instrument aims to close this gap by providing a cutting-edge, digital alternative that is simple to use and has countless opportunities for enhancements.
 
 
-![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/image%20(1).png?raw=true)
+![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/image%20(1).png?raw=true | width=100)
 
 
 ## Problem Definition
@@ -47,7 +47,6 @@ The wireless communication method used by the ChordWave instrument is MIDI over 
 Using the I2C (Inter-Integrated Circuit) Standard, the ChordWave instrument communicates internally amongst its parts. This standard makes it easier for a microcontroller, LCD, and other peripherals to exchange data for reliable and effective communication.
 
 
-
 ## Architecture Overview
 
 The ChordWave instrument's construction blends commercially available electrical parts with specially developed software to produce a distinctive musical experience. Using 3D design tools, our team created the components, such as the wooden case and Plexiglass top, as well as the base PCB. The Iliauni FabLab then produced these designs utilizing laser cutting methods.
@@ -57,7 +56,7 @@ Writing code for the various parts and modules that are used as well as building
 The ChordWave's physical design features a hardwood body with a Plexiglass top, providing a modern and aesthetically pleasing look. Musicians of different backgrounds and ability levels may readily interact with the instrument due to the instrument's emphasis on user-friendliness and easy controls.
 
 
-![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/Architeture.png?raw=true)
+![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/Architeture.png?raw=true | width=100)
 
 
 ## High-Level Overview
