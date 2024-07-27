@@ -12,6 +12,8 @@ The ChordWave project intends to meet the rising need for contemporary and elect
 
 <picture>
    <srcset= "https://ibb.co/F6p38Ny">
+   </srcset>
+</picture>
 
 
 ## Problem Definition
