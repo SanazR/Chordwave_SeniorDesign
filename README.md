@@ -5,9 +5,9 @@
 
 C﻿hordWave is an electronic musical instrument that produces sound using MIDI signals. The device is intended to be accessible and simple to use for individuals of any age and musical background.
 
-
-<img src="https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/CW.png?raw=true" width= "300" height= "300" />
-
+<p align = "center">
+  <img src="https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/CW.png?raw=true" width= "300" height= "300" />
+</p>
 
 ## Background
 
