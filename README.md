@@ -57,6 +57,9 @@ Writing code for the various parts and modules that are used as well as building
 The ChordWave's physical design features a hardwood body with a Plexiglass top, providing a modern and aesthetically pleasing look. Musicians of different backgrounds and ability levels may readily interact with the instrument due to the instrument's emphasis on user-friendliness and easy controls.
 
 
+![image alt](https://github.com/SanazR/Chordwave_SeniorDesign/blob/main/ChordWave-master/assets/Architeture.png?raw=true)
+
+
 ## High-Level Overview
 
 The fundamental operating component of the ChordWave instrument is an ESP32 microprocessor. Two GPIO extenders and an LCD display are connected to the ESP32 using the I2C protocol. One of the GPIO extenders is linked to a button matrix, while the other extender is linked to an RGB matrix, creating a 4x4 RGB button matrix pad. RGB matrix uses 16  pins of one extender, while the button matrix only uses 8 pins of another.
