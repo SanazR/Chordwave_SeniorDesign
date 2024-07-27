@@ -92,4 +92,7 @@ The instrument uses the MIDI over BLE (Bluetooth Low Energy) protocol for wirele
 - Phidan Makhmudova
 - Sanaz Rahbari 
   
+## Attachements
+
+You can watch the videos and check the photos of the instrument here
 
